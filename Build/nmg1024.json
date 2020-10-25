@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Dean Dash",
-"dataUrl": "NoMansGroup1019.data.unityweb",
-"wasmCodeUrl": "NoMansGroup1019.wasm.code.unityweb",
-"wasmFrameworkUrl": "NoMansGroup1019.wasm.framework.unityweb",
+"dataUrl": "nmg1024.data.unityweb",
+"wasmCodeUrl": "nmg1024.wasm.code.unityweb",
+"wasmFrameworkUrl": "nmg1024.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
